@@ -22,9 +22,9 @@ layout: default
 
 ## Schedule
 
-| Talk Title | Date |
----------------------
-| Talk 1 | (28 January -- 3 Februrary) |
+| Talk Title | Date                        |
+|------------|-----------------------------|
+| Talk 1     | (28 January -- 3 Februrary) |
 | Talk 2 | 4 -- 10 Februrary |
 | Talk 3| 11 -- 17 February |
 | Talk 4 | 18 -- 24 February |
