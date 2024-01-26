@@ -1005,4 +1005,12 @@ a:hover {
   color: #819198;
 }
 
+.header_pic {
+  width: 25%;
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+} 
+
 /*# sourceMappingURL=style.css.map */

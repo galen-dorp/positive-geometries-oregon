@@ -34,4 +34,4 @@ Organizers: [Colin Crowley](https://sites.google.com/view/colincrowley/home), [G
 
 
 
-<img src="polytope.png" class="front_page_pic">
+
