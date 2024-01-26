@@ -27,10 +27,10 @@ Organizers: [Colin Crowley](https://sites.google.com/view/colincrowley/home), [G
 | Talk 1     | 28 January -- 3 February | What is a positive geometry?   | -       | Chapter 1 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)         |
 | Talk 2     | 4 -- 10 February         | Positive geo-basics   | -       | Chapter 2 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)          |
 | Talk 3     | 11 -- 17 February        | Nuts and Bolts: Triangulations and Morphisms   | -       | Chapters 3 and 4 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)         |
-| Talk 4     | 18 -- 24 February        | Example: Simplices and Polytopes  | -       | Sections 5.1 -- 5.2, 6.1 -- 6.2 [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)           |
-| Talk 5     | 25 February -- 2 March  | Example: Grassmannians   | -       | Section 5.5 [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)         |
-| Talk 6     | 3 -- 9 March             | Example: Toric Varieties   | -       | Section 5.6 [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)         |
-| Talk 7     | 10 -- 16 March           | EXAMPLituhedra   | -       | Section 6.3-6.6 [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)      |
+| Talk 4     | 18 -- 24 February        | Example: Simplices and Polytopes  | -       | Sections 5.1 -- 5.2, 6.1 -- 6.2 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)           |
+| Talk 5     | 25 February -- 2 March  | Example: Grassmannians   | -       | Section 5.5 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)         |
+| Talk 6     | 3 -- 9 March             | Example: Toric Varieties   | -       | Section 5.6 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)         |
+| Talk 7     | 10 -- 16 March           | EXAMPLituhedra   | -       | Section 6.3-6.6 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)      |
 
 
 ## Sources
