@@ -33,5 +33,9 @@ Organizers: [Colin Crowley](https://sites.google.com/view/colincrowley/home), [G
 | Talk 7     | 10 -- 16 March           | -   | -       | -         |
 
 
+## Sources
 
+- [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541) by Nima Arkani-Hamed, Yuntao Bai, Thomas Lam
+- [An Invitation to Positive Geometries](https://arxiv.org/abs/2208.05407) by Thomas Lam
+- [Reading Seminar notes from the University of Michigan](https://ghseeli.github.io/seminars/learn_alco23_24) by various authors
 
