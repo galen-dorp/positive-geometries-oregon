@@ -20,6 +20,12 @@ layout: default
 
 Organizers: [Colin Crowley](https://sites.google.com/view/colincrowley/home), [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/)
 
+## Kickoff Meeting:
+
+- When? February 1 at 1 PM
+- Where? TBA
+- What? We'll give a short introduction to the topic, then discuss organizational topics.
+
 ## Tentative Schedule
 
 | Talk Title | Week                   | Topic | Speaker | Materials |
