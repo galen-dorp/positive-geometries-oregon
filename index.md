@@ -23,7 +23,7 @@ Organizers: [Colin Crowley](https://sites.google.com/view/colincrowley/home), [G
 ## Kickoff Meeting:
 
 - When? February 1 at 1 PM
-- Where? TBA
+- Where? Tykeson 260
 - What? We'll give a short introduction to the topic, then discuss organizational topics.
 
 ## Tentative Schedule
