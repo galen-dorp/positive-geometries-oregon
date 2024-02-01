@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Members
-description: Members of Women in Math at RUB
+title: Notes
+description: Participant
 
 ---
 
