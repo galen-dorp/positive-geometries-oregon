@@ -30,7 +30,7 @@ Organizers: [Colin Crowley](https://sites.google.com/view/colincrowley/home), [G
 
 | Talk Title | Week                   | Topic | Speaker | Materials |
 |------------|------------------------|-------|---------|-----------|
-| Talk 1     | 28 January -- 3 February | What is a positive geometry?   | Galen Dorpalen-Barry       | Chapter 1 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)         |
+| Talk 1     | 1 February | What is a positive geometry?   | Galen Dorpalen-Barry       | Chapter 1 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)         |
 | Talk 2     | 4 -- 10 February         | Positive geo-basics   | Colin Crowley       | Chapter 2 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)          |
 | Talk 3     | 11 -- 17 February        | Nuts and Bolts: Triangulations and Morphisms   | -       | Chapters 3 and 4 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)         |
 | Talk 4     | 18 -- 24 February        | Case Study: Simplices and Polytopes  | -       | Sections 5.1 -- 5.2, 6.1 -- 6.2 from [Positive Geometries and Canonical Forms](https://arxiv.org/abs/1703.04541)           |
