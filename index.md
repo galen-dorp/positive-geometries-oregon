@@ -18,9 +18,9 @@ layout: default
   </style>
 </head>
 
-Organizers: [Colin Crowley](https://sites.google.com/view/colincrowley/home), [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/)
+**Organizers**: [Colin Crowley](https://sites.google.com/view/colincrowley/home), [Galen Dorpalen-Barry](https://galen.dorpalen-barry.org/)
 
-Basic Info: We meet on Thursdays at 1 PM in Tykeson 260.
+**Basic Info**: We meet on Thursdays at 1 PM in Tykeson 260.
 
 If you're interested in giving a talk, please email the organizers!
 
